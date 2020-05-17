@@ -2,7 +2,7 @@
 
 This Repo is being used for learning React Native
 
-###Things covered so far:
+### Things covered so far:
 1. Setting Up
 2. npm install
 3. Building components
