@@ -8,6 +8,7 @@ This Repo is being used for learning React Native
 3. Building components
 4. Making FlatList
 5. Buttons
-
+6. Destructuring props
+7. Component Reuse with Props
 
 This file will be updated when available
