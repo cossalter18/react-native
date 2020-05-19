@@ -10,5 +10,7 @@ This Repo is being used for learning React Native
 5. Buttons
 6. Destructuring props
 7. Component Reuse with Props
+8. Passing image props
+9.
 
 This file will be updated when available
