@@ -14,6 +14,6 @@ This Repo is being used for learning React Native
 9. Navigating With React Navigate
 10. State Management in React Components
 11. Random Color Generator {App Exercise}
-12. 
+12. Reducers
 
 This file will be updated when possible
