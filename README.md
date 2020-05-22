@@ -16,5 +16,7 @@ This Repo is being used for learning React Native
 11. Random Color Generator {App Exercise}
 12. Reducers
 13. Text inputs and handling text
+14. Handle screen layout
+15. 
 
 This file will be updated when possible
