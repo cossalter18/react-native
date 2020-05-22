@@ -17,6 +17,6 @@ This Repo is being used for learning React Native
 12. Reducers
 13. Text inputs and handling text
 14. Handle screen layout
-15. 
+15. View https://github.com/cossalter18/react-native-resturant-search for resturant search app
 
 This file will be updated when possible
